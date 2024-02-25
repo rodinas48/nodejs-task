@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "fName": "rodina",
+    "lName": "sameh",
+    "age": "22",
+    "city": "cairo"
+  },
+  {
+    "id": "3",
+    "fName": "mohamed",
+    "lName": "ahmed",
+    "age": "33",
+    "city": "minia"
+  },
+  { "id": "5", "fName": "sofia", "lName": "alex", "age": "26", "city": "uk" },
+  {
+    "id": "7",
+    "fName": "shoruk",
+    "lName": "ahmed",
+    "age": "21",
+    "city": "giza"
+  },
+  {
+    "id": "9",
+    "fName": "nancy",
+    "lName": "magdy",
+    "age": "20",
+    "city": "cairo"
+  },
+  {
+    "id": "10",
+    "fName": "farida",
+    "lName": "hassan",
+    "age": "60",
+    "city": "cairo"
+  }
+]
